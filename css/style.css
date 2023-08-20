@@ -647,7 +647,7 @@
         background-image: url(../images/84770f_0cf5b6c1550a4b8c92f92f1064cc68de~mv2.webp);
         height: 350px;
         background-size: cover;
-        background-attachment: fixed
+        background-attachment: fixed;
     }
 
     .number-overlay {
@@ -671,7 +671,7 @@
     .container-item-itm {
         width: 25%;
         float: left;
-        text-align: center;
+            text-align: center;
     }
 
     .container-item-itm .icon {
