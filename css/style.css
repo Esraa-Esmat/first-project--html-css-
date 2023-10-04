@@ -410,7 +410,7 @@
 
         opacity: 0;
         visibility: hidden;
-        transform: 2s;
+        transition: 1s;
     }
 
 
